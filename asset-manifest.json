@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pixel-tilling/static/css/main.cb73105f.chunk.css",
+    "main.js": "/react-pixel-tilling/static/js/main.80d7c286.chunk.js",
+    "main.js.map": "/react-pixel-tilling/static/js/main.80d7c286.chunk.js.map",
+    "runtime~main.js": "/react-pixel-tilling/static/js/runtime~main.ba32b6b6.js",
+    "runtime~main.js.map": "/react-pixel-tilling/static/js/runtime~main.ba32b6b6.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-pixel-tilling/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-pixel-tilling/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-pixel-tilling/index.html",
+    "precache-manifest.42e0b9e47e38c60bac09ddf0086e3f0e.js": "/react-pixel-tilling/precache-manifest.42e0b9e47e38c60bac09ddf0086e3f0e.js",
+    "service-worker.js": "/react-pixel-tilling/service-worker.js",
+    "static/css/main.cb73105f.chunk.css.map": "/react-pixel-tilling/static/css/main.cb73105f.chunk.css.map"
+  }
+}
