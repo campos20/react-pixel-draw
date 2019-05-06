@@ -1,4 +1,4 @@
-Squared tilling for the plane. This is just a training with react.
+Squared tilling for the plane. This is just a training with react. You can see a living version [here](https://campos20.github.io/react-pixel-tilling/).
 
 # Getting started
 
